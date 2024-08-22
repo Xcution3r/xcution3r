@@ -23,7 +23,7 @@
 <br />
 <p align="center">
   <samp>
-    $  <a href="https://x.com/6a1p" target="_blank"><i class="fa-brands fa-x-twitter"></i></a> .
+    $  <a href="https://x.com/6a1p" target="_blank">𝕏</a> .
     <a href="https://t.me/Xcution3r" target="_blank">Telegram</a> $
   </samp>
 </p>
