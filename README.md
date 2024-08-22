@@ -5,7 +5,7 @@
 ```
  
 
-<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" border="0" style="width:156px;">
   
   ```css
   xcution3r@GitHub
