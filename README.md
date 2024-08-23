@@ -1,4 +1,4 @@
-<div style="display:block;text-align:left"><img align="left" src="https://i.pinimg.com/564x/87/20/43/87204332555b0dffa77a6f52f481bc83.jpg" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://www.pngkey.com/png/full/13-130085_white-spider-web-picture-royalty-free-stock-insect.png" border="0" style="width:156px;">
   
   ```css
   xcution3r@GitHub
@@ -7,7 +7,6 @@
   Languages: ["Python", "PHP", "JS", "Bash"]
   Intrests: ["Bug Bounty Hunting", "Penetration Testing", "Red Teaming"]  
   Certs: ["eJPTv2", "CBBH"]
-
   ```
 </div>
 
