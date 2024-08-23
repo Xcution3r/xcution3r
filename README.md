@@ -1,10 +1,3 @@
-
-```css
-┌[xcution3r@git]-(~)
-└> mefetch
-```
- 
-
 <div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" border="0" style="width:156px;">
   
   ```css
