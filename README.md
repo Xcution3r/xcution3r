@@ -7,6 +7,7 @@
   Languages: ["Python", "PHP", "JS", "Bash"]
   Intrests: ["Bug Bounty Hunting", "Penetration Testing", "Red Teaming"]  
   Certs: ["eJPTv2", "CBBH"]
+
   ```
 </div>
 
